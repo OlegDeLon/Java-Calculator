@@ -1,4 +1,4 @@
-![](misc/images/calc.gif)
+![](/images/calc.gif)
 
 In this project i made my own desktop calculator on Java.
 I use JavaFX and SceneBuilder for userinterface, Maven as build system, MVC pattern.
