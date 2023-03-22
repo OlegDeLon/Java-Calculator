@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="521.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.calc.HelloController">
+   <children>
+      <Label fx:id="infoLabel" alignment="TOP_LEFT" contentDisplay="TOP" layoutX="-2.0" layoutY="-1.0" prefHeight="527.0" prefWidth="606.0" style="-fx-background-color: #1d1d1d;" textFill="#f2c705">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
